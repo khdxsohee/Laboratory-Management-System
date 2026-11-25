@@ -1,6 +1,9 @@
 # ClariPath LIMS
-
+# Laboratory Information Management System
 **ClariPath LIMS** is a modern, browser-based Clinical Laboratory Information & Management System designed for diagnostic clinics, pathology centers, and outpatient labs. It unifies patient registration, diagnostic test catalog pricing, order billing, specimen workflow tracking, structured result entry with automatic reference-range flagging, printable receipts and clinical lab reports, and persistent offline-first local storage with full JSON/CSV backup import and export.
+
+<img width="1353" height="600" alt="image" src="https://github.com/user-attachments/assets/a2c7ca22-7a81-41f1-b0a6-327f129daec7" />
+
 
 ---
 
