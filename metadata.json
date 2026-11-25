@@ -1,0 +1,6 @@
+{
+  "name": "ClariPath LIMS",
+  "description": "Clinical laboratory management system for patient registration, test pricing, sample tracking, result reporting, printable receipts, and local backup import/export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
